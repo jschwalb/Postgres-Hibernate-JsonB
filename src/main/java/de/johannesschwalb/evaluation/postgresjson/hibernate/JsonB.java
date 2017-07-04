@@ -23,6 +23,8 @@ import java.util.stream.Collectors;
 
 /**
  * Created by LG P310 on 04.07.2017.
+ *
+ * Thanks to mariusneo (inspired by https://github.com/mariusneo/postgres-json-jpa/blob/master/src/main/java/eu/java/pg/jsonb/types/JSONBUserType.java)
  */
 public class JsonB implements UserType {
 
